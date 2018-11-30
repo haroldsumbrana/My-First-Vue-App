@@ -1,12 +1,12 @@
 # Harold's Pizza
-[view site](https://haroldsumbrana.github.io/My-First-Vue-App/)
+![view site](https://haroldsumbrana.github.io/My-First-Vue-App/)
 
 ![vuejsgithub](https://user-images.githubusercontent.com/30718575/49297378-99d77800-f4f5-11e8-93d9-12030a315e69.JPG)
 
 
 > A Vue.js project
 
-# Here some tips if you want to deploy your vue project on github click ![this link] (https://www.npmjs.com/package/vue-gh-pages)
+# Here some tips if you want to deploy your vue project on github  ![click this link](https://www.npmjs.com/package/vue-gh-pages)
 
 ## Build Setup
 
