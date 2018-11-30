@@ -6,6 +6,8 @@
 
 > A Vue.js project
 
+# Here some tips if you want to deploy your vue project on github click ![this link] (https://www.npmjs.com/package/vue-gh-pages)
+
 ## Build Setup
 
 ``` bash
