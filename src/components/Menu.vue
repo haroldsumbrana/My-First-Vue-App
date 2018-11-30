@@ -155,3 +155,9 @@ export default {
 
 
 </script>
+
+<style>
+a.navbar-brand {
+    pointer-events: none;
+}
+</style>
