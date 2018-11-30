@@ -7,6 +7,7 @@
 > A Vue.js project
 
 # Here some tips if you want to deploy your vue project on github  [click this link](https://www.npmjs.com/package/vue-gh-pages)
+if you think the tips guides you well please do follow me on github [Harold Sumbrana](https://github.com/haroldsumbrana)
 
 ## Build Setup
 
